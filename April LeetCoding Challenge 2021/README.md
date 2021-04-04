@@ -2,5 +2,6 @@
 This repository contains solutions for problems in April Leetcoding challenge 2021. Given below are link to the questions:
 
 ## Week 1
+* Day 01 - https://leetcode.com/problems/palindrome-linked-list/
 * Day 03 - https://leetcode.com/problems/longest-valid-parentheses/
 * Day 04 - https://leetcode.com/problems/design-circular-queue/
