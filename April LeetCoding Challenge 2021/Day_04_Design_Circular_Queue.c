@@ -1,6 +1,3 @@
-
-
-
 typedef struct {
     int capacity;
     int arr[1000];
