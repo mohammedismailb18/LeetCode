@@ -32,7 +32,7 @@ public:
             prev = current;
             current = next;
         }
-        
+       
         //new head of second part
         q = prev;
         //head of first part
