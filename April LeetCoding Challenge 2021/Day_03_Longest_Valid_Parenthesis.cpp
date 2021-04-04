@@ -29,7 +29,7 @@ public:
             maxim = max(maxim, last - index - 1);
             last = index;
         }
-        
+       
         maxim = max(maxim, last-0);
         return maxim;
     }
