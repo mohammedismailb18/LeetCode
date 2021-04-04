@@ -7,7 +7,7 @@ typedef struct {
 
 bool myCircularQueueIsFull(MyCircularQueue*);
 bool myCircularQueueIsEmpty(MyCircularQueue*);
-    
+   
 MyCircularQueue* myCircularQueueCreate(int k) {
     MyCircularQueue* obj = (MyCircularQueue*)malloc(sizeof(MyCircularQueue));
     obj->capacity = k;
