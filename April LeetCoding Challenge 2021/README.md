@@ -1,7 +1,8 @@
 # April LeetCoding Challenge 2021
 * April Leetcoding Challenge : https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/
 * This repository contains solutions for problems in April Leetcoding challenge 2021. Given below are link to the questions and it's solution:
-\n
+<br />
+<br />
 
 | Date | Problem | Solution |
 | --- | --- | --- |
