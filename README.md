@@ -1,4 +1,3 @@
-# LeetCoding Challenge
 <div align="left">
 <img src="https://github.com/mohammedismailb18/LeetCode/blob/main/logo.png" width="200" height="auto"/>
   </div>
