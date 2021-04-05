@@ -6,6 +6,6 @@
 | Date | Problem | Solution | Difficulty |
 | --- | --- | --- | --- |
 | 01/04/2021 | https://leetcode.com/problems/palindrome-linked-list/ | [Pallindrome Linked List](https://github.com/mohammedismailb18/LeetCode/blob/main/April%20LeetCoding%20Challenge%202021/Day_01_Pallindrome_Linked_List.cpp) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |
-| 02/04/2021 | https://leetcode.com/problems/ones-and-zeroes/ | [Ones and Zeros](https://github.com/mohammedismailb18/LeetCode/blob/main/April%20LeetCoding%20Challenge%202021/Day_02_Ones_and_Zeros.cpp)  |
-| 03/04/2021 | https://leetcode.com/problems/longest-valid-parentheses/ | [Longest Valid Parenthesis](https://github.com/mohammedismailb18/LeetCode/blob/main/April%20LeetCoding%20Challenge%202021/Day_03_Longest_Valid_Parenthesis.cpp) |
-| 04/04/2021 | https://leetcode.com/problems/design-circular-queue/ | [Circular Queue](https://github.com/mohammedismailb18/LeetCode/blob/main/April%20LeetCoding%20Challenge%202021/Day_04_Design_Circular_Queue.c) |
+| 02/04/2021 | https://leetcode.com/problems/ones-and-zeroes/ | [Ones and Zeros](https://github.com/mohammedismailb18/LeetCode/blob/main/April%20LeetCoding%20Challenge%202021/Day_02_Ones_and_Zeros.cpp)  | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) |
+| 03/04/2021 | https://leetcode.com/problems/longest-valid-parentheses/ | [Longest Valid Parenthesis](https://github.com/mohammedismailb18/LeetCode/blob/main/April%20LeetCoding%20Challenge%202021/Day_03_Longest_Valid_Parenthesis.cpp) | ![Hard](https://img.shields.io/badge/Hard-d9534f.svg?style=flat) |
+| 04/04/2021 | https://leetcode.com/problems/design-circular-queue/ | [Circular Queue](https://github.com/mohammedismailb18/LeetCode/blob/main/April%20LeetCoding%20Challenge%202021/Day_04_Design_Circular_Queue.c) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) |
