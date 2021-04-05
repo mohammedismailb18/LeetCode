@@ -5,3 +5,8 @@ This repository contains solutions for problems in April Leetcoding challenge 20
 * Day 01 - https://leetcode.com/problems/palindrome-linked-list/
 * Day 03 - https://leetcode.com/problems/longest-valid-parentheses/
 * Day 04 - https://leetcode.com/problems/design-circular-queue/
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
