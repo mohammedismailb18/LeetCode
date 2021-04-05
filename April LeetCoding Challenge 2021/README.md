@@ -8,7 +8,7 @@ This repository contains solutions for problems in April Leetcoding challenge 20
 
 | Date | Problem | Solution |
 | --- | --- | --- |
-| 01/04/2021 | https://leetcode.com/problems/palindrome-linked-list/ | https://github.com/mohammedismailb18/LeetCode/blob/main/April%20LeetCoding%20Challenge%202021/Day_01_Pallindrome_Linked_List.cpp |
+| 01/04/2021 | https://leetcode.com/problems/palindrome-linked-list/ | [a relative link]Day_01_Pallindrome_Linked_List.cpp |
 | 02/04/2021 | https://leetcode.com/problems/ones-and-zeroes/ |   |
 | 03/04/2021 | https://leetcode.com/problems/longest-valid-parentheses/ |   |
 | 04/04/2021 | https://leetcode.com/problems/design-circular-queue/ |   |
