@@ -16,5 +16,5 @@ public:
         }
     
         return wall.size()-max_edge;
-    }
+    } 
 };
