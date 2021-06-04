@@ -5,4 +5,4 @@
 
 | Date | Problem | Solution | Difficulty |
 | --- | --- | --- | --- |
-| 01/04/2021 | https://leetcode.com/problems/palindrome-linked-list/ | [Pallindrome Linked List](https://github.com/mohammedismailb18/LeetCode/blob/main/April%20LeetCoding%20Challenge%202021/Day_01_Pallindrome_Linked_List.cpp) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |
+| 03/06/2021 | https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/ | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://github.com/mohammedismailb18/LeetCode/blob/main/June%20LeetCode%20Challenge%202021/1_Max_Area_of_Island.cpp) |
