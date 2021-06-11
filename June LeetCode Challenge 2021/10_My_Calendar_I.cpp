@@ -14,7 +14,7 @@ public:
         }
         interval.push_back({start,end});
         return true;
-    }
+    } 
 };
 
 /**
