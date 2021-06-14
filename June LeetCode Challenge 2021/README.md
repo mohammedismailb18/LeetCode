@@ -14,4 +14,5 @@
 | 09/06/2021 | https://leetcode.com/problems/jump-game-vi/ | [Jump Game VI](https://github.com/mohammedismailb18/LeetCode/blob/main/June%20LeetCode%20Challenge%202021/09_Jump_Game_VI.cpp) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) |
 | 10/06/2021 | https://leetcode.com/problems/my-calendar-i/ | [My Calendar I](https://github.com/mohammedismailb18/LeetCode/blob/main/June%20LeetCode%20Challenge%202021/10_My_Calendar_I.cpp) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) |
 | 11/06/2021 | https://leetcode.com/problems/stone-game-vii/ | [Stone Game VII](https://github.com/mohammedismailb18/LeetCode/blob/main/June%20LeetCode%20Challenge%202021/11_Stone_Game_VII.cpp) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e.svg?style=flat) |
+| 14/06/2021 | https://leetcode.com/problems/maximum-units-on-a-truck/ | [Maximum Units on a Truck](https://github.com/mohammedismailb18/LeetCode/blob/main/June%20LeetCode%20Challenge%202021/14_Maximum_Units_on_a_Truck.cpp) | ![Easy](https://img.shields.io/badge/Easy-5cb85c.svg?style=flat) |
 
